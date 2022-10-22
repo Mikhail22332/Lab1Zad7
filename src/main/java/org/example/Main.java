@@ -27,5 +27,6 @@ public class Main{
         System.out.println(square.obwod(firstSide, secondSide));
         System.out.println(square.pole(firstSide, secondSide));
         System.out.println(square.obwod(firstSide, secondSide));
+
     }
 }
